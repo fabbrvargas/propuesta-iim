@@ -403,6 +403,13 @@ figcaption, .formatos-nota {
   .tabla-tarifas thead th { font-size: 10.5px; letter-spacing: 0.08em; white-space: normal; }
 }
 
+.portada-iva { margin-top: 8px !important; font-size: 13px; color: rgba(246, 244, 239, 0.8); }
+.etiqueta-tecnica {
+  position: absolute; left: 10px; top: 10px; z-index: 1;
+  font-size: 11px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase;
+  background: rgba(28, 28, 26, 0.82); color: var(--arena); padding: 4px 8px;
+}
+
 /* ---------- 5 · Trabajo previo ---------- */
 .seccion-referencias {
   background: var(--carbon); color: var(--blanco);

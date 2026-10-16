@@ -18,12 +18,11 @@ assets/img/           fotos optimizadas, posters y og.jpg (vista previa al compa
 assets/video/         portada (hero-h / hero-v), previews livianos y versiones completas
 ```
 
-## Antes de enviar
+## Nota
 
-Completar las variables marcadas en naranja en `index.html`:
-
-- `[VOCERO]` — persona de IIM que aparece en cámara, con cargo (aparece 2 veces)
-- `[APROBADOR]` — persona de IIM que aprueba calendario y piezas (aparece 1 vez)
+El documento original tenía las variables `[VOCERO]` y `[APROBADOR]`. Se publicaron como
+"vocero de IIM" e "IIM Promotora Inmobiliaria". Si se define el nombre del vocero, reemplazarlo
+en la jornada y en Condiciones → Insumos de IIM.
 
 ## Despliegue en GitHub Pages
 
